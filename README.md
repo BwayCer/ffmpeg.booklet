@@ -1,15 +1,16 @@
-書本名
+快轉阿姆佩閣
 =======
 
 
 > 版本： v0.0<br />
-> 作者： 姓名 <信箱> (網站)<br />
-> 授權： [授權代碼](http://spdx.org/licenses)
+> 作者： 張本微 <bwaycer@gmail.com> (https://bwaycer.github.io/about)<br />
+> 授權： [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.zh_TW)
 
 
 
 ## 簡介
 
 
-關於本書描述。
+[FFmpeg](https://www.ffmpeg.org/)
+是指令版的多媒體編輯工具與應用工具。
 
